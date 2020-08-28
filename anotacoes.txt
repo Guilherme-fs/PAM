@@ -1,0 +1,7 @@
+Anotações:
+
+O comando git clone realiza a clonagem (download) de algum repositorio, do GitHub, dentro da sua maquina;
+
+O comando git push envia para o GitHub as alterações feitas no repositorio;
+
+O comando git pull copia, para sua maquina, as alterações que foram feitas no repositorio.
